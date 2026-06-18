@@ -1,0 +1,5 @@
+{
+  "livePreview.autoRefreshPreview": "On After Delay",
+  "livePreview.defaultPreviewPath": "/index.html",
+  "livePreview.notifyPortBurn": false
+}

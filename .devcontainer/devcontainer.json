@@ -1,0 +1,23 @@
+{
+  "name": "HTML & CSS Starter with AI Mentor",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-server",
+        "github.copilot",
+        "github.copilot-chat"
+      ],
+      "settings": {
+        "livePreview.defaultPreviewPath": "/index.html",
+        "livePreview.notifyPortBurn": false
+      }
+    }
+  },
+  "portsAttributes": {
+    "3000": {
+      "label": "Live Preview Server",
+      "onAutoForward": "openPreview"
+    }
+  }
+}

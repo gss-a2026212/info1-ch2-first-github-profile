@@ -1,6 +1,6 @@
 {
   "name": "HTML & CSS Starter with AI Mentor",
-  "image": "mcr.microsoft.com/devcontainers/base:alpine",
+  "image": "mcr.microsoft.com/devcontainers/base:debian",
   "customizations": {
     "vscode": {
       "extensions": [
